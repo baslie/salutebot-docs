@@ -1,0 +1,182 @@
+# Документация SaluteBot
+
+Этот индекс содержит иерархическую структуру всей документации SaluteBot.
+
+## Структура документации
+
+- [Подключаем чат-бот в каналы Jivo](adding-account-jivo.md)
+- [Подключаем чат-бот к EDNA](edna-integration.md)
+- [Примеры использования GigaChat в чат-боте](gigachat-in-salutebot.md)
+- [Документация для разработчиков](overview-main.md)
+- [Документация для разработчиков](overview.md)
+- [Подключаем чат-бот к Webim](webim-integration.md)
+- **Bot Channel**
+  - [Подключаем чат-бот к Telegram](bot-channel/telegram.md)
+- **Bot Development**
+  - [Погружаемся в разработку](bot-development/overview.md)
+  - [Использование протоколов шифрования](bot-development/protocols.md)
+  - [Проверка орфографии](bot-development/spellcheck.md)
+  - **Bot Answers**
+    - [Типы событий event](bot-development/bot-answers/events-table.md)
+    - [Типы сообщений](bot-development/bot-answers/message-types.md)
+    - [Ответы чат-бота](bot-development/bot-answers/overview.md)
+  - **Classificator**
+    - [Подключение классификатора](bot-development/classificator/connection-classificator.md)
+    - [Классификатор STS](bot-development/classificator/overview.md)
+  - **Entities**
+    - [Клиентские сущности](bot-development/entities/client-entities.md)
+    - [Пользовательские сущности](bot-development/entities/custom-entities.md)
+    - [Сущность для хранения даты и времени](bot-development/entities/datetime-entities.md)
+    - [Экспорт и импорт сущностей](bot-development/entities/entities-export-import.md)
+    - [Сущности](bot-development/entities/entities-types.md)
+    - [Entities usage](bot-development/entities/entities-usage.md)
+    - [Именованные сущности](bot-development/entities/named-entity.md)
+    - [Сущности в Code](bot-development/entities/overview.md)
+    - [Системные сущности и справочники](bot-development/entities/system-entities.md)
+  - **Intents Phrases**
+    - [Фразы пользователей](bot-development/intents-phrases/adding-phrases.md)
+    - [Определение интента](bot-development/intents-phrases/intent-detection.md)
+    - [Создание интента](bot-development/intents-phrases/new-intent.md)
+    - [Интенты и распознавание фраз](bot-development/intents-phrases/overview.md)
+    - [Готовые интенты](bot-development/intents-phrases/premade-intents.md)
+    - [Синтаксис шаблонов фраз](bot-development/intents-phrases/template-syntax.md)
+  - **Patterns**
+    - [Расширенные элементы паттернов](bot-development/patterns/advanced-patterns.md)
+    - [Базовые элементы паттернов](bot-development/patterns/base-patterns.md)
+    - [Именованные паттерны](bot-development/patterns/named-patterns.md)
+    - [Паттерны](bot-development/patterns/overview.md)
+  - **Project Structure**
+    - [Конфигурационный файл](bot-development/project-structure/configuration-file.md)
+    - [Справочники именованных сущностей](bot-development/project-structure/csv.md)
+    - [Поиск по файлам проекта](bot-development/project-structure/file-search.md)
+    - [Файлы JavaScript библиотек](bot-development/project-structure/js.md)
+    - [Работа с модулями](bot-development/project-structure/modules.md)
+    - [Структура и конфигурация проекта](bot-development/project-structure/overview.md)
+    - [Обзор проекта](bot-development/project-structure/project-overview.md)
+    - [Настройка проекта](bot-development/project-structure/project-settings.md)
+    - [Файлы сценариев](bot-development/project-structure/sc.md)
+    - [Логи сервера](bot-development/project-structure/server-logs.md)
+    - [Работа с модулями sys.modules](bot-development/project-structure/sys-modules.md)
+    - [Справочники меток](bot-development/project-structure/tag-list.md)
+    - [Файлы с тестами](bot-development/project-structure/xml.md)
+    - [Справочники YAML](bot-development/project-structure/yaml.md)
+  - **Slot Filling**
+    - [Прерывание слот-филлинга](bot-development/slot-filling/break.md)
+    - [Заполнение слотов из запроса](bot-development/slot-filling/fields.md)
+    - [Слот-филлинг](bot-development/slot-filling/overview.md)
+    - [Тестирование слот-филлинга](bot-development/slot-filling/testing.md)
+  - **Tegs Tests**
+    - [Автоматическое тестирование](bot-development/tegs-tests/auto-tests-xml.md)
+    - [Теги тестов](bot-development/tegs-tests/overview.md)
+    - [Тестовый виджет чат-бота](bot-development/tegs-tests/test-widget.md)
+- **Bot Steps**
+  - [Создаем чат-бот на базе документов (RAG)](bot-steps/bot-creation-by-docs.md)
+  - [Расширяем возможности чат-бота](bot-steps/chatbot-learning.md)
+  - [Создаем чат-бота по шагам](bot-steps/free-and-fast.md)
+  - [Регистрируемся в личном кабинете](bot-steps/registration.md)
+  - [Создаем чат-бот с GigaChat](bot-steps/wizard-creation.md)
+  - **Project Creation**
+    - [Добавляем коллег для совместной работы](bot-steps/project-creation/add-users.md)
+    - [Создаем рабочий проект в личном кабинете](bot-steps/project-creation/overview.md)
+    - [Загружаем готовые сценарии](bot-steps/project-creation/prepared-scripts.md)
+    - [Настраиваем профиль](bot-steps/project-creation/profile-settings.md)
+    - [Экспортируем и импортируем проект](bot-steps/project-creation/project-export-import.md)
+    - [Определяем уровни доступа](bot-steps/project-creation/roles.md)
+    - [Настраиваем пространство](bot-steps/project-creation/space-settings.md)
+  - **Scenario Creation**
+    - [Создаем и настраиваем сценарий чат-бота](bot-steps/scenario-creation/before-creation.md)
+    - [Создаем сценарий с нуля](bot-steps/scenario-creation/scenario-creation-guide.md)
+    - [Создаем сценарий по шаблону](bot-steps/scenario-creation/scenario-templates.md)
+- **Changelog**
+  - [История обновлений](changelog/latest-1.md)
+  - [История обновлений](changelog/latest.md)
+- **Dialog**
+  - [Добавляем рекомендованные реплики](dialog/adding-recommend-intent.md)
+  - [Обрабатываем ответы от пользователя](dialog/answer-processing.md)
+  - [Настраиваем ответы чат-бота пользователю](dialog/answer-settings.md)
+  - [Отвечаем на ключевые реакции пользователей](dialog/base-intents-reactions.md)
+  - [Завершаем диалог с пользователем](dialog/close-bot.md)
+  - [Добавляем синонимы в ответы чат-бота](dialog/entities-autegeneration.md)
+  - [Делаем FAQ с ответами на частые вопросы](dialog/faq-for-user.md)
+  - [Используем автоматическую генерацию реплик](dialog/intents-autogeneration.md)
+  - [Настраиваем диалог с пользователем](dialog/overview.md)
+  - [Обрабатываем запросы пользователя](dialog/raw-request.md)
+  - [Проверяем обращения пользователей](dialog/recommended-intents.md)
+  - [Начинаем диалог с пользователем](dialog/start.md)
+  - [Обрабатываем незнакомые фразы пользователя](dialog/unknown-phrases.md)
+- **Guides**
+  - [Документация для разработчиков](guides/guides-overview.md)
+- **Integration**
+  - [Документация для разработчиков](integration/integration-overview.md)
+- **Quick Start**
+  - [Документация для разработчиков](quick-start/quickstart-overview.md)
+- **Salutebot Chatapi**
+  - [Получение истории чата](salutebot-chatapi/get-chat-api-client-history.md)
+  - [Загрузка состояния чата](salutebot-chatapi/get-chat-api-client-state.md)
+  - [Получение асинхронных событий](salutebot-chatapi/get-chat-api-events.md)
+  - [SaluteBot Chat API](salutebot-chatapi/overview.md)
+  - [Сохранение состояния чата](salutebot-chatapi/post-chat-api-client-state.md)
+  - [SaluteBot Chat API](salutebot-chatapi/salutebot-chat-api.md)
+  - [Асихронная отправка сообщения боту](salutebot-chatapi/send-chat-api-message-async.md)
+  - [Упрощенная отправка сообщения боту](salutebot-chatapi/send-chat-api-message-get.md)
+  - [Отправка сообщения боту](salutebot-chatapi/send-chat-api-message-post.md)
+- **Scenario**
+  - [Добавляем подсказки](scenario/adding-buttons.md)
+  - [Добавляем данные в Google-таблицу](scenario/adding-data-to-google-tables.md)
+  - [Подключаем сторонние вебхуки](scenario/bot-logic-webhooks.md)
+  - [Закладываем логику и развиваем сценарий](scenario/logic-overview.md)
+  - [Настраиваем сценарий](scenario/overview.md)
+  - [Добавляем первый экран](scenario/starting-block-set-up.md)
+  - [Добавляем токены для обращения к сервисам](scenario/token-management.md)
+  - [Используем данные из Google-таблиц](scenario/using-google-tables.md)
+  - **Blocks**
+    - [Генерируем ответ на базе документов (RAG)](scenario/blocks/ai-answer.md)
+    - [Добавляем кнопки в чат](scenario/blocks/buttons-links.md)
+    - [Настраиваем дизайн чат-бота](scenario/blocks/chat-bot-design.md)
+    - [Настраиваем поведение чат-бота по условиям](scenario/blocks/conditions.md)
+    - [Добавляем динамические кнопки](scenario/blocks/dynamic-buttons.md)
+    - [Обрабатываем события сценария](scenario/blocks/event.md)
+    - [Генерируем ответ с помощью GigaChat](scenario/blocks/gigachatrequest.md)
+    - [Поддерживаем HTTP-запросы](scenario/blocks/http-request.md)
+    - [Загружаем изображения в чат](scenario/blocks/image.md)
+    - [Обучаем чат-бота правильно реагировать на ответы](scenario/blocks/intent.md)
+    - [Используем код на JavaScript](scenario/blocks/jscode.md)
+    - [Обрабатываем число от пользователя](scenario/blocks/number-entry.md)
+    - [Подключаем сторонние сервисы](scenario/blocks/other-services-overview.md)
+    - [Добавляем блоки на экран](scenario/blocks/overview.md)
+    - [Сохраняем номер телефона](scenario/blocks/phone-number.md)
+    - [Подключаем интеграции с CRM](scenario/blocks/premade-scenarios.md)
+    - [Завершаем сценарий](scenario/blocks/scenario-end.md)
+    - [Отправляем данные оператору](scenario/blocks/send-user-data.md)
+    - [Отправляем email пользователю](scenario/blocks/sending-email.md)
+    - [Сохраняем ответ пользователя](scenario/blocks/text-entry.md)
+    - [Добавляем и форматируем ответ чат-бота](scenario/blocks/text.md)
+    - [Напоминаем пользователю о разговоре](scenario/blocks/timeout.md)
+    - [Переводим пользователя на оператора](scenario/blocks/to-operator.md)
+    - [Переходим к другому экрану сценария](scenario/blocks/transition.md)
+    - [Отправляем файлы пользователю](scenario/blocks/upload-file-scenario.md)
+    - [Работаем с данными пользователя](scenario/blocks/userdata-overview.md)
+  - **Scenario Management**
+    - [Настраиваем время хранения диалогов](scenario/scenario-management/dialogue-logs-storage.md)
+    - [Подключаем библиотеки и скрипты](scenario/scenario-management/preload-js-scripts.md)
+    - [Восстанавливаем версию сценария](scenario/scenario-management/scenario-change-history.md)
+    - [Определяем откуда пришел пользователь](scenario/scenario-management/user-channel.md)
+    - [Используем внешние репозитории](scenario/scenario-management/using-external-repos.md)
+    - [Используем имя, телефон и email](scenario/scenario-management/using-user-data.md)
+- **Statistic Reports**
+  - [Анализируем отчеты](statistic-reports/reports-filter.md)
+  - [Собираем метрики](statistic-reports/reports.md)
+- **Tariffs**
+  - [Бесплатный тариф](tariffs/free-tariff.md)
+  - [Платные тарифы для физлиц](tariffs/individual-tariffs.md)
+  - [Платные тарифы для юрлиц и ИП](tariffs/legal-tariffs.md)
+  - [Документация для разработчиков](tariffs/overview.md)
+  - [Управление тарифами](tariffs/tariff-management.md)
+- **Testing**
+  - [Тестируем чат-бот](testing/overview.md)
+  - [Тестирование чат-бота в Code](testing/testing-debugging.md)
+  - [Тестируем сценарий](testing/testing-graph.md)
+
+---
+
+*Автоматически сгенерировано для 19 разделов документации*

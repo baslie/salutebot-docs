@@ -1,0 +1,98 @@
+---
+title: "Справочники YAML"
+source_url: "https://github.com/baslie/salutebot-docs/blob/main/data/docs_md/salutebot/bot-development/project-structure/yaml.md"
+description: "Документация для разработчиков | Разработка чат-ботов"
+reading_time: 1
+badges: ["SaluteBot", "Code"]
+toc:
+  - title: "Формат данных в справочнике"
+    level: 2
+    id: "format-dannyh-v-spravochnike"
+  - title: "Работа со справочниками"
+    level: 2
+    id: "rabota-so-spravochnikami"
+---
+
+<!-- Бейджи: SaluteBot | Code -->
+
+# Справочники YAML
+
+Содержание раздела
+
+* [Формат данных в справочнике](#формат-данных-в-справочнике)
+* [Работа со справочниками](#работа-со-справочниками)
+
+# Справочники YAML
+
+Обновлено 15 декабря 2023
+
+[![](/assets/salutebot/bot-development/project-structure/yaml/salutebot-new.png)
+SaluteBot](../../overview.md)[![](/assets/salutebot/bot-development/project-structure/yaml/Code.png)
+Code](https://developers.sber.ru/docs/ru/va/code/overview)
+
+
+
+---
+
+YAML-cправочники используются для хранения различной информации одного проекта. Например в справочнике можно хранить тексты ответов бота, API-ключи, настройки громкости и другие параметры.
+
+## Формат данных в справочнике
+
+Данные хранятся в справочнике в формате:
+
+```
+ключ: значение
+```
+
+Записи могут быть вложенными:
+
+```
+volumeControl:
+    levels: 100
+    step: 20
+```
+
+В качестве значений можно указывать переменные, которые хранятся в объектах:
+
+```
+ifUserHasRightAnswers:
+    a1: 'Мы ответили правильно на {{$temp.right}} {{$temp.ru__answers}} на текущем уровне сложности!'
+```
+
+## Работа со справочниками
+
+Рассмотрим работу с YAML-справочниками на примере справочника `answers.yaml`, который содержит ответы чатбота:
+
+```
+botAnswers:
+    a1: 'Ваше число: {{ $parseTree._Number }}'
+    a2: 'Так держать! Вы назвали число {{ $parseTree._Number }}'
+```
+
+Для подключения справочника используйте тег [`require`](https://developers.sber.ru/docs/ru/va/code/sa-dsl/tags/declarative-tags#require):
+
+```
+require: answers.yaml
+    var = answers
+
+patterns:
+    $Number = (1/2/3/4/5)
+
+theme: /
+
+    state: Number
+        q!: $Number
+        script:
+            $session.number = $parseTree._Number;
+        random:
+        a: Ваше число: {{ $parseTree._Number }}
+        a: {{$global.answers.botAnswers.a2}}
+```
+
+К ответам из справочника можно обращаться как к обычным переменным (тег `a` в примере сценария).
+
+О том как выбрать случайный вариант ответа из справочника, читайте в разделе [Встроенные сервисы](https://developers.sber.ru/docs/ru/va/code/js-api/services/reactions/answer#sluchaynyy-otvet-s-pomoshyu-yaml-spravochnika).
+
+Заметили ошибку?
+
+Выделите текст и нажмите `Ctrl` + `Enter`, чтобы сообщить нам о ней
