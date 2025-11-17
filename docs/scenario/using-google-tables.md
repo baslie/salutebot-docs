@@ -1,6 +1,6 @@
 ---
 title: "Используем данные из Google-таблиц"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/using-google-tables.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/using-google-tables"
 description: "Используем данные из Google-таблиц | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

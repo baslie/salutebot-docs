@@ -1,6 +1,6 @@
 ---
 title: "Регистрируемся в личном кабинете"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/registration.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/registration"
 description: "Регистрируемся в личном кабинете | Разработка чат-ботов"
 reading_time: 2
 badges: ["Studio", "SaluteBot"]

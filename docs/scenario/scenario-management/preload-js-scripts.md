@@ -1,6 +1,6 @@
 ---
 title: "Подключаем библиотеки и скрипты"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/scenario-management/preload-js-scripts.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/scenario-management/preload-js-scripts"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

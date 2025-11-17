@@ -1,6 +1,6 @@
 ---
 title: "Настраиваем диалог с пользователем"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/overview"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 ---

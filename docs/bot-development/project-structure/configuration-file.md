@@ -1,6 +1,6 @@
 ---
 title: "Конфигурационный файл"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/project-structure/configuration-file.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/project-structure/configuration-file"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

@@ -1,6 +1,6 @@
 ---
 title: "Добавляем динамические кнопки"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/dynamic-buttons.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/dynamic-buttons"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Graph"]

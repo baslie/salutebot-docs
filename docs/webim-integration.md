@@ -1,6 +1,6 @@
 ---
 title: "Подключаем чат-бот к Webim"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/webim-integration.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/webim-integration"
 description: "Подключаем чат-бот к Webim | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph", "Code"]

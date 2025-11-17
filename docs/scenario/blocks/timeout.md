@@ -1,6 +1,6 @@
 ---
 title: "Напоминаем пользователю о разговоре"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/timeout.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/timeout"
 description: "Напоминаем пользователю о разговоре | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

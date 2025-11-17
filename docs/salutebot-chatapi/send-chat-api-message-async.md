@@ -1,6 +1,6 @@
 ---
 title: "Асихронная отправка сообщения боту"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/salutebot-chatapi/send-chat-api-message-async.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/salutebot-chatapi/send-chat-api-message-async"
 description: "Отправка запроса клиента или события в чат-приложении. В отличие от [POST /chatapi/bot/{token}](#operation/post-chatapi-token) в ответ на запрос придет только идентификатор запроса, а сообщение бота будет отправлено на вебхук, указанный в настройках канала Chat API."
 reading_time: 1
 breadcrumbs: ["", "Асихронная отправка сообщения боту"]

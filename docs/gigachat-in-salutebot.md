@@ -1,6 +1,6 @@
 ---
 title: "Примеры использования GigaChat в чат-боте"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/gigachat-in-salutebot.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/gigachat-in-salutebot"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 3
 badges: ["SaluteBot"]

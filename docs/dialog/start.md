@@ -1,6 +1,6 @@
 ---
 title: "Начинаем диалог с пользователем"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/start.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/start"
 description: "Начинаем диалог с пользователем | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph", "Code"]

@@ -1,6 +1,6 @@
 ---
 title: "Завершаем сценарий"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/scenario-end.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/scenario-end"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

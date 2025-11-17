@@ -1,6 +1,6 @@
 ---
 title: "Сущности"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/entities/entities-types.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/entities/entities-types"
 reading_time: 1
 badges: ["SaluteBot", "Code"]
 toc:

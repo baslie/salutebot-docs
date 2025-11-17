@@ -1,6 +1,6 @@
 ---
 title: "Управление тарифами"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/tariffs/tariff-management.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/tariffs/tariff-management"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot"]

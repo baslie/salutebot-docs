@@ -1,6 +1,6 @@
 ---
 title: "SaluteBot Chat API"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/salutebot-chatapi/salutebot-chat-api.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/salutebot-chatapi/salutebot-chat-api"
 description: "Документация для разработчиков | Разработка чат-ботов"
 page_type: "api"
 reading_time: 1

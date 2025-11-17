@@ -1,6 +1,6 @@
 ---
 title: "Загружаем готовые сценарии"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/project-creation/prepared-scripts.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/project-creation/prepared-scripts"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["Studio", "SaluteBot"]

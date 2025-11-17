@@ -1,6 +1,6 @@
 ---
 title: "Добавляем данные в Google-таблицу"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/adding-data-to-google-tables.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/adding-data-to-google-tables"
 description: "Добавляем данные в Google-таблицу | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

@@ -1,6 +1,6 @@
 ---
 title: "Тестирование чат-бота в Code"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/testing/testing-debugging.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/testing/testing-debugging"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

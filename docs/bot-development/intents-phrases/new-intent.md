@@ -1,6 +1,6 @@
 ---
 title: "Создание интента"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/intents-phrases/new-intent.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/intents-phrases/new-intent"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code", "Brain"]

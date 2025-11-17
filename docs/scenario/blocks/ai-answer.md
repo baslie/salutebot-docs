@@ -1,6 +1,6 @@
 ---
 title: "Генерируем ответ на базе документов (RAG)"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/ai-answer.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/ai-answer"
 description: "GigaChat для чат-ботов | Разработка чат-ботов"
 page_type: "reference"
 reading_time: 3

@@ -1,6 +1,6 @@
 ---
 title: "Отправка сообщения боту"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/salutebot-chatapi/send-chat-api-message-post.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/salutebot-chatapi/send-chat-api-message-post"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 breadcrumbs: ["", "Отправка сообщения боту"]

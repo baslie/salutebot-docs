@@ -1,6 +1,6 @@
 ---
 title: "Проверяем обращения пользователей"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/recommended-intents.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/recommended-intents"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot"]

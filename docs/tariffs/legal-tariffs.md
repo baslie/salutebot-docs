@@ -1,6 +1,6 @@
 ---
 title: "Платные тарифы для юрлиц и ИП"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/tariffs/legal-tariffs.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/tariffs/legal-tariffs"
 reading_time: 1
 badges: ["SaluteBot"]
 toc:

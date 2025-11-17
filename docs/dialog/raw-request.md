@@ -1,6 +1,6 @@
 ---
 title: "Обрабатываем запросы пользователя"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/raw-request.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/raw-request"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

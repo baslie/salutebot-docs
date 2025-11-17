@@ -1,6 +1,6 @@
 ---
 title: "Генерируем ответ с помощью GigaChat"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/gigachatrequest.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/gigachatrequest"
 description: "Документация для разработчиков | Разработка чат-ботов"
 page_type: "reference"
 reading_time: 3

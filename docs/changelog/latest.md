@@ -1,6 +1,6 @@
 ---
 title: "История обновлений"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/changelog/latest.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/changelog/latest"
 description: "История обновлений | Документация для разработчиков. История обновлений SaluteBot"
 reading_time: 1
 toc:

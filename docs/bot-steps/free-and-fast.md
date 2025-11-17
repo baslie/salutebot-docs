@@ -1,6 +1,6 @@
 ---
 title: "Создаем чат-бота по шагам"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/free-and-fast.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/free-and-fast"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot"]

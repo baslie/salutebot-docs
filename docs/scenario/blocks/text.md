@@ -1,6 +1,6 @@
 ---
 title: "Добавляем и форматируем ответ чат-бота"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/text.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/text"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

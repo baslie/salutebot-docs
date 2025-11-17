@@ -1,6 +1,6 @@
 ---
 title: "Обрабатываем ответы от пользователя"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/answer-processing.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/answer-processing"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

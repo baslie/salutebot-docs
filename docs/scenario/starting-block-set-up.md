@@ -1,6 +1,6 @@
 ---
 title: "Добавляем первый экран"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/starting-block-set-up.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/starting-block-set-up"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]
 breadcrumbs: ["SaluteBot", "Настраиваем дизайн чат-бота", "", "SaluteBot", "Настраиваем дизайн чат-бота", "Добавляем первый экран"]

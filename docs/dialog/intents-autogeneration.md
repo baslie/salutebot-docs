@@ -1,6 +1,6 @@
 ---
 title: "Используем автоматическую генерацию реплик"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/intents-autogeneration.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/intents-autogeneration"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code", "Graph"]

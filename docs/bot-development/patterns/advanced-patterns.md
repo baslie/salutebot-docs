@@ -1,6 +1,6 @@
 ---
 title: "Расширенные элементы паттернов"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/patterns/advanced-patterns.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/patterns/advanced-patterns"
 description: "Расширенные элементы паттернов | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Code"]

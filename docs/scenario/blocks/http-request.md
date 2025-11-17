@@ -1,6 +1,6 @@
 ---
 title: "Поддерживаем HTTP-запросы"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/http-request.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/http-request"
 description: "Блок HTTP-запрос для чат-ботов | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

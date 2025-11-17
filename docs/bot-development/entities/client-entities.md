@@ -1,6 +1,6 @@
 ---
 title: "Клиентские сущности"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/entities/client-entities.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/entities/client-entities"
 description: "Работа с клиентскими сущностями для чат-ботов | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Code"]

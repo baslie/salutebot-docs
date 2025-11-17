@@ -1,6 +1,6 @@
 ---
 title: "Отправляем данные оператору"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/send-user-data.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/send-user-data"
 description: "Отправляем данные оператору | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

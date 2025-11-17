@@ -1,6 +1,6 @@
 ---
 title: "Используем имя, телефон и email"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/scenario-management/using-user-data.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/scenario-management/using-user-data"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph", "Code"]

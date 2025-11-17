@@ -1,6 +1,6 @@
 ---
 title: "Подключаем интеграции с CRM"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/premade-scenarios.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/premade-scenarios"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

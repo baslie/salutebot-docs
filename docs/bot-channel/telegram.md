@@ -1,6 +1,6 @@
 ---
 title: "Подключаем чат-бот к Telegram"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-channel/telegram.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-channel/telegram"
 description: "Подключаем чат-бот к Telegram | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot"]

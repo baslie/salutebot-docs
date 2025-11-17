@@ -1,6 +1,6 @@
 ---
 title: "Платные тарифы для физлиц"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/tariffs/individual-tariffs.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/tariffs/individual-tariffs"
 reading_time: 1
 badges: ["SaluteBot"]
 toc:

@@ -1,6 +1,6 @@
 ---
 title: "Структура и конфигурация проекта"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/project-structure/overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/project-structure/overview"
 reading_time: 1
 badges: ["SaluteBot", "Code"]
 toc:

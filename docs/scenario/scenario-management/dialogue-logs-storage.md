@@ -1,6 +1,6 @@
 ---
 title: "Настраиваем время хранения диалогов"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/scenario-management/dialogue-logs-storage.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/scenario-management/dialogue-logs-storage"
 description: "Настраиваем время хранения диалогов | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code", "Graph"]

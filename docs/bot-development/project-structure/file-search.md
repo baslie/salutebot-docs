@@ -1,6 +1,6 @@
 ---
 title: "Поиск по файлам проекта"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/project-structure/file-search.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/project-structure/file-search"
 description: "Поиск по файлам проекта для чат-ботов | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

@@ -1,6 +1,6 @@
 ---
 title: "Определяем откуда пришел пользователь"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/scenario-management/user-channel.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/scenario-management/user-channel"
 description: "Определяем откуда пришел пользователь | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code", "Graph"]

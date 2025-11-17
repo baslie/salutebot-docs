@@ -1,6 +1,6 @@
 ---
 title: "Анализируем отчеты"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/statistic-reports/reports-filter.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/statistic-reports/reports-filter"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 4
 badges: ["SaluteBot", "Code"]

@@ -1,6 +1,6 @@
 ---
 title: "Сохраняем номер телефона"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/phone-number.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/phone-number"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

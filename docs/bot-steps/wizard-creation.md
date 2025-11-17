@@ -1,6 +1,6 @@
 ---
 title: "Создаем чат-бот с GigaChat"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/wizard-creation.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/wizard-creation"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 4
 badges: ["SaluteBot"]

@@ -1,6 +1,6 @@
 ---
 title: "Создаем чат-бот на базе документов (RAG)"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/bot-creation-by-docs.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/bot-creation-by-docs"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 4
 badges: ["SaluteBot"]

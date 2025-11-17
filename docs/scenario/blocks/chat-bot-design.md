@@ -1,6 +1,6 @@
 ---
 title: "Настраиваем дизайн чат-бота"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/chat-bot-design.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/chat-bot-design"
 description: "Настраиваем дизайн чат-бота | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

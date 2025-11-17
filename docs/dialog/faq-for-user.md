@@ -1,6 +1,6 @@
 ---
 title: "Делаем FAQ с ответами на частые вопросы"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/faq-for-user.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/faq-for-user"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]
 breadcrumbs: ["SaluteBot", "Настраиваем ответы чат-бота пользователю", "", "SaluteBot", "Настраиваем ответы чат-бота пользователю", "Делаем FAQ с ответами на частые вопросы"]

@@ -1,6 +1,6 @@
 ---
 title: "Переходим к другому экрану сценария"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/transition.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/transition"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]
 ---

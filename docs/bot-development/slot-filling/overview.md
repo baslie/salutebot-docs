@@ -1,6 +1,6 @@
 ---
 title: "Слот-филлинг"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/slot-filling/overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/slot-filling/overview"
 description: "Слот-филлинг для чат-ботов | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

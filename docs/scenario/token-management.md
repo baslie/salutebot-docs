@@ -1,6 +1,6 @@
 ---
 title: "Добавляем токены для обращения к сервисам"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/token-management.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/token-management"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code", "Graph"]

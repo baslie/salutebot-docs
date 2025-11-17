@@ -1,6 +1,6 @@
 ---
 title: "Создаем сценарий с нуля"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/scenario-creation/scenario-creation-guide.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/scenario-creation/scenario-creation-guide"
 reading_time: 1
 badges: ["SaluteBot", "Graph", "Code"]
 breadcrumbs: ["SaluteBot", "", "SaluteBot", "Создаем сценарий с нуля"]

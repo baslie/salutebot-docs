@@ -1,6 +1,6 @@
 ---
 title: "Создаем и настраиваем сценарий чат-бота"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/scenario-creation/before-creation.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/scenario-creation/before-creation"
 reading_time: 3
 badges: ["SaluteBot", "Graph"]
 breadcrumbs: ["SaluteBot", "", "SaluteBot", "Создаем и настраиваем сценарий чат-бота"]

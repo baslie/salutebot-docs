@@ -1,6 +1,6 @@
 ---
 title: "Обрабатываем незнакомые фразы пользователя"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/unknown-phrases.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/unknown-phrases"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot"]

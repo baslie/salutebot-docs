@@ -1,6 +1,6 @@
 ---
 title: "Добавляем коллег для совместной работы"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/project-creation/add-users.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/project-creation/add-users"
 description: "Добавляем коллег для совместной работы | Разработка чат-ботов"
 reading_time: 1
 badges: ["Studio", "SaluteBot"]

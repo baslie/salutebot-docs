@@ -1,6 +1,6 @@
 ---
 title: "Закладываем логику и развиваем сценарий"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/logic-overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/logic-overview"
 description: "Закладываем логику и развиваем сценарий | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

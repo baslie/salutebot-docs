@@ -1,6 +1,6 @@
 ---
 title: "Ответы чат-бота"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/bot-answers/overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/bot-answers/overview"
 reading_time: 1
 badges: ["SaluteBot", "Code"]
 ---

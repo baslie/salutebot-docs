@@ -1,6 +1,6 @@
 ---
 title: "Завершаем диалог с пользователем"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/close-bot.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/close-bot"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

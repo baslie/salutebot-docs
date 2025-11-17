@@ -1,6 +1,6 @@
 ---
 title: "Подключаем чат-бот в каналы Jivo"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/adding-account-jivo.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/adding-account-jivo"
 reading_time: 1
 badges: ["SaluteBot", "Studio"]
 breadcrumbs: ["SaluteBot", "", "SaluteBot", "Подключаем чат-бот в каналы Jivo"]

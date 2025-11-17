@@ -1,6 +1,6 @@
 ---
 title: "Базовые элементы паттернов"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/patterns/base-patterns.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/patterns/base-patterns"
 description: "Базовые элементы паттернов для чат-ботов | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

@@ -1,6 +1,6 @@
 ---
 title: "Подключение классификатора"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/classificator/connection-classificator.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/classificator/connection-classificator"
 reading_time: 2
 badges: ["SaluteBot", "Code"]
 toc:

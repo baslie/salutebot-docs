@@ -1,6 +1,6 @@
 ---
 title: "Сущность для хранения даты и времени"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/entities/datetime-entities.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/entities/datetime-entities"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

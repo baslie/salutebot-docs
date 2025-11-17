@@ -1,6 +1,6 @@
 ---
 title: "Обучаем чат-бота правильно реагировать на ответы"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/intent.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/intent"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

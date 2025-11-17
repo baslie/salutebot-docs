@@ -1,6 +1,6 @@
 ---
 title: "Получение истории чата"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/salutebot-chatapi/get-chat-api-client-history.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/salutebot-chatapi/get-chat-api-client-history"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 breadcrumbs: ["", "Получение истории чата"]

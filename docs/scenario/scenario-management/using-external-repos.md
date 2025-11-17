@@ -1,6 +1,6 @@
 ---
 title: "Используем внешние репозитории"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/scenario-management/using-external-repos.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/scenario-management/using-external-repos"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Code"]

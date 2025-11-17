@@ -1,6 +1,6 @@
 ---
 title: "Отправляем email пользователю"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/sending-email.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/sending-email"
 description: "Блок Отправка email для чат-ботов | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Graph"]

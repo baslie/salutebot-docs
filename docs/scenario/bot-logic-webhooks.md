@@ -1,6 +1,6 @@
 ---
 title: "Подключаем сторонние вебхуки"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/bot-logic-webhooks.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/bot-logic-webhooks"
 description: "Подключаем сторонние вебхуки | Разработка чат-ботов"
 reading_time: 3
 badges: ["SaluteBot", "Graph"]

@@ -1,6 +1,6 @@
 ---
 title: "Сохранение состояния чата"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/salutebot-chatapi/post-chat-api-client-state.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/salutebot-chatapi/post-chat-api-client-state"
 description: "Сохранение состояния чат-приложения."
 reading_time: 1
 breadcrumbs: ["", "Сохранение состояния чата"]

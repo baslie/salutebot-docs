@@ -1,6 +1,6 @@
 ---
 title: "Добавляем подсказки"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/adding-buttons.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/adding-buttons"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]
 toc:

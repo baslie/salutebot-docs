@@ -1,6 +1,6 @@
 ---
 title: "Отвечаем на ключевые реакции пользователей"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/base-intents-reactions.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/base-intents-reactions"
 reading_time: 3
 badges: ["SaluteBot", "Graph"]
 breadcrumbs: ["SaluteBot", "Настраиваем ответы чат-бота пользователю", "", "SaluteBot", "Настраиваем ответы чат-бота пользователю", "Отвечаем на ключевые реакции пользователей"]

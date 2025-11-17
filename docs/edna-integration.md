@@ -1,6 +1,6 @@
 ---
 title: "Подключаем чат-бот к EDNA"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/edna-integration.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/edna-integration"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Graph", "Code"]

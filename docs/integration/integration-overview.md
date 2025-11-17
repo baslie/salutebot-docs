@@ -1,6 +1,6 @@
 ---
 title: "Документация для разработчиков"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/integration/integration-overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/integration/integration-overview"
 description: "Интеграции с SaluteBot | Разработка чат-ботов"
 reading_time: 1
 toc:

@@ -1,6 +1,6 @@
 ---
 title: "Документация для разработчиков"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/overview-main.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/overview-main"
 description: "overview-main | Разработка чат-ботов"
 reading_time: 1
 ---

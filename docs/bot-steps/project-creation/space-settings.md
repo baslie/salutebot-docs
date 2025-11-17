@@ -1,6 +1,6 @@
 ---
 title: "Настраиваем пространство"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/project-creation/space-settings.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/project-creation/space-settings"
 reading_time: 1
 badges: ["Studio", "SaluteBot"]
 breadcrumbs: ["SaluteBot", "", "SaluteBot", "Настраиваем пространство"]

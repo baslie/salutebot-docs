@@ -1,6 +1,6 @@
 ---
 title: "Расширяем возможности чат-бота"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/chatbot-learning.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/chatbot-learning"
 description: "Расширяем возможности чат-бота | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Graph"]

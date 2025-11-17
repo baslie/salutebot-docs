@@ -1,6 +1,6 @@
 ---
 title: "Настраиваем ответы чат-бота пользователю"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/answer-settings.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/answer-settings"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

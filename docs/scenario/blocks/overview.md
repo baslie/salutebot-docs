@@ -1,6 +1,6 @@
 ---
 title: "Добавляем блоки на экран"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/overview"
 description: "Настраиваем сценарий | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Graph"]

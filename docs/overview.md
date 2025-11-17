@@ -1,6 +1,6 @@
 ---
 title: "Документация для разработчиков"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/overview"
 reading_time: 1
 ---
 

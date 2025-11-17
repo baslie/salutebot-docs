@@ -1,6 +1,6 @@
 ---
 title: "Настраиваем поведение чат-бота по условиям"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/scenario/blocks/conditions.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/scenario/blocks/conditions"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]

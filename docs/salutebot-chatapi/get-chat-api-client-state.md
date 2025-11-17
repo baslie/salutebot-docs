@@ -1,6 +1,6 @@
 ---
 title: "Загрузка состояния чата"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/salutebot-chatapi/get-chat-api-client-state.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/salutebot-chatapi/get-chat-api-client-state"
 description: "Загрузка ранее сохраненного состояния чат-приложения."
 reading_time: 1
 breadcrumbs: ["", "Загрузка состояния чата"]

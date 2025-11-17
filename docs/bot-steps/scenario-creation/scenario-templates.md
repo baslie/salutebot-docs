@@ -1,6 +1,6 @@
 ---
 title: "Создаем сценарий по шаблону"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-steps/scenario-creation/scenario-templates.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-steps/scenario-creation/scenario-templates"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 2
 badges: ["SaluteBot", "Graph", "Code"]

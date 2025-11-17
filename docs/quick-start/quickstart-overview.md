@@ -1,6 +1,6 @@
 ---
 title: "Документация для разработчиков"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/quick-start/quickstart-overview.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/quick-start/quickstart-overview"
 description: "Быстрый старт SaluteBot | Разработка чат-ботов"
 reading_time: 1
 toc:

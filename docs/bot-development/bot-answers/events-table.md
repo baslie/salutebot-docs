@@ -1,6 +1,6 @@
 ---
 title: "Типы событий event"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/bot-development/bot-answers/events-table.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/bot-development/bot-answers/events-table"
 description: "Документация для разработчиков | Разработка чат-ботов"
 page_type: "reference"
 reading_time: 1

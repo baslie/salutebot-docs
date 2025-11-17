@@ -1,6 +1,6 @@
 ---
 title: "Добавляем рекомендованные реплики"
-source_url: "https://github.com/baslie/salutebot-docs/blob/main/docs/dialog/adding-recommend-intent.md"
+source_url: "https://developers.sber.ru/docs/ru/salutebot/dialog/adding-recommend-intent"
 description: "Документация для разработчиков | Разработка чат-ботов"
 reading_time: 1
 badges: ["SaluteBot", "Graph"]
